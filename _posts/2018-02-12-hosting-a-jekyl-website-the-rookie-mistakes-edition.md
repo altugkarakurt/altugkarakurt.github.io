@@ -2,7 +2,6 @@
 layout: post
 title:  "Hosting a Jekyll Website: The Rookie Mistakes Edition"
 date:   2018-02-12 19:08:32 -0500
-categories: jekyll programming
 tags:
   - programming
   - jekyll
