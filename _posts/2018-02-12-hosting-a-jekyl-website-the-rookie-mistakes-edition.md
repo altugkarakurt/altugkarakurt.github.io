@@ -2,6 +2,7 @@
 layout: post
 title:  "Hosting a Jekyll Website: The Rookie Mistakes Edition"
 date:   2018-02-12 19:08:32 -0500
+permalink: hosting-a-jekyl-website-the-rookie-mistakes-edition
 tags:
   - programming
   - jekyll
