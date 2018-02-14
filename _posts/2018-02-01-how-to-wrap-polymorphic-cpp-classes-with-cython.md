@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Wrap Polymorphic C++ Implementations with Cython"
+title:  "How to Wrap Polymorphic C++ Classes with Cython"
 date:   2018-02-14 13:24:00 -0500
 permalink: how-to-wrap-polymorphic-cpp-classes-with-cython
 tags:
