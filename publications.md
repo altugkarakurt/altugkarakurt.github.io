@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 sidebar_link: true
 ---
+### Preprints ###
+[P1] D. Öner, A. Karakurt, A. Eryilmaz, C. Tekin. (2018). "Combinatorial Multi-Objective Multi-Armed Bandit Problem". arXiv preprint arXiv:1803.04039
+
 ### Papers in Conference Proceedings ###
 
 [C3] A. Karakurt, A. Eryilmaz, & C.E. Koksal (2018). “Quick Discovery of Mobile Devices in the Many-User Regime - Carrier Sensing or Simultaneous Detection?”. In Proceedings of 16th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt 2018), May 2018, Shanghai, China.
