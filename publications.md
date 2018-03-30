@@ -5,7 +5,7 @@ permalink: /publications/
 sidebar_link: true
 ---
 ### Preprints ###
-[P1] D. Öner, A. Karakurt, A. Eryilmaz, C. Tekin. (2018). "Combinatorial Multi-Objective Multi-Armed Bandit Problem". arXiv preprint arXiv:1803.04039
+[P1] D. Öner, A. Karakurt, A. Eryilmaz, C. Tekin. (2018). "Combinatorial Multi-Objective Multi-Armed Bandit Problem". arXiv preprint arXiv:1803.04039 [[PDF]](https://arxiv.org/pdf/1803.04039.pdf "arXiv")
 
 ### Papers in Conference Proceedings ###
 
