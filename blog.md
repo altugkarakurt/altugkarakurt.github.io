@@ -1,6 +1,6 @@
 ---
 layout: blog_index
-title: Blog
+title: Technical Blog
 permalink: /blog/
 sidebar_link: true
 ---
