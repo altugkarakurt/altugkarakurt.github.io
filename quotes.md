@@ -15,3 +15,6 @@ sidebar_link: true
 > Real Gs move in silence like lasagna.
 > <div style="text-align: right"> - Dwayne Michael Carter Jr. </div>
 <hr>
+> Ball don't lie.
+> <div style="text-align: right"> - Rasheed Abdul Wallace </div>
+<hr>
