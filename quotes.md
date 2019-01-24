@@ -18,3 +18,6 @@ sidebar_link: true
 > Ball don't lie.
 > <div style="text-align: right"> - Rasheed Abdul Wallace </div>
 <hr>
+> It’s the responsibility of little guys like you to be looking out for big shots like me.
+> <div style="text-align: right"> - Jesus, Gandhi or Malcolm-Jamal Warner </div>
+<hr>
